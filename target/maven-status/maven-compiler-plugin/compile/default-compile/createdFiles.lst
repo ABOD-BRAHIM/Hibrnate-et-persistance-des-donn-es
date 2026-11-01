@@ -1,0 +1,10 @@
+com\emsi\dao\MachineDao.class
+com\emsi\entities\Salle.class
+com\emsi\services\SalleService.class
+com\emsi\entities\Machine.class
+com\emsi\util\HibrnateUtil.class
+com\emsi\dao\SalleDao.class
+com\emsi\test\Test.class
+com\emsi\App.class
+com\emsi\dao\Idao.class
+com\emsi\services\MachineService.class
